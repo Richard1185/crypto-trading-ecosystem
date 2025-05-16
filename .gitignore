@@ -38,7 +38,11 @@ temp/
 !package.json
 !package-lock.json
 !tsconfig.json
+!mcp-config.example.json
 
 # Archivos de caché
 .cache/
-.npm/ 
+.npm/
+
+# Archivos de configuración sensibles
+mcp-config.json 
